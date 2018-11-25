@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PicScan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PicScan_jar</output-path>
+    <root id="archive" name="PicScan.jar">
+      <element id="module-output" name="PicScan" />
+    </root>
+  </artifact>
+</component>
